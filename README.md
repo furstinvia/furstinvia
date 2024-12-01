@@ -13,4 +13,4 @@ Currently taking a bachelor's degree in Computer Science at Institut Teknologi S
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/furstinaaptr)
 
 ## Popular Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayubrw&repo=gayubrw&theme=dark)](https://github.com/furstinvia/furstinvia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furstinvia&repo=furstinvia&theme=dark)](https://github.com/furstinvia/furstinvia)
