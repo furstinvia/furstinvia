@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋, I'm Via
 
-<!--
-**furstinvia/furstinvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently taking a bachelor's degree in Computer Science at Institut Teknologi Sepuluh Nopember, Surabaya.
 
-Here are some ideas to get you started:
+## My GitHub Statistics
+<div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=furstinvia&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furstinvia&layout=compact&theme=dark" alt="Most Used Languages"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/furstinaptr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/furstinaaptr)
+
+## Popular Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayubrw&repo=gayubrw&theme=dark)](https://github.com/furstinvia/furstinvia)
