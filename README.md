@@ -41,4 +41,3 @@
 ![snake animation](https://github.com/furstinvia/furstinvia/blob/output/github-contribution-grid-snake2.svg)
 
 
-
