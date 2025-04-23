@@ -39,10 +39,5 @@
 ## Popular Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furstinvia&repo=furstinvia&theme=dark)](https://github.com/furstinvia/furstinvia)
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=furstinvia&theme=radical" alt="GitHub Streak" />
-</p>
 
 
