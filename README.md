@@ -1,7 +1,9 @@
-## Hi 👋, I'm Via
+## Hi, I'm Via 👋🏻👩🏻‍💻
 
-Currently taking a bachelor's degree in Informatics Engineering at Institut Teknologi Sepuluh Nopember, Surabaya 💻🪄
+![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/789895b3-96da-417b-8231-96e8caa34c05)
 
+🎓 Informatics Engineering student at **Institut Teknologi Sepuluh Nopember**, Surabaya  
+💻 Passionate about **Web Development** & **Software Engineering** 
 
 ## My GitHub Statistics
 
@@ -36,4 +38,11 @@ Currently taking a bachelor's degree in Informatics Engineering at Institut Tekn
 
 ## Popular Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furstinvia&repo=furstinvia&theme=dark)](https://github.com/furstinvia/furstinvia)
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=furstinvia&theme=radical" alt="GitHub Streak" />
+</p>
+
 
