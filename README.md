@@ -38,6 +38,5 @@
 
 ## Contributions 
 
-![snake animation](https://github.com/furstinvia/furstinvia/blob/output/github-contribution-grid-snake2.svg)
-
+<img alt="snake contribution" src="https://raw.githubusercontent.com/furstinvia/furstinvia/output/github-contribution-grid-snake-dark.svg"/>
 
