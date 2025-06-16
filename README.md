@@ -6,7 +6,7 @@
 
 💻 Passionate about **Web Development** & **Software Engineering** 
 
-🌐 Explore My Work : https://furstin-aprilavia-putri.vercel.app
+🌐 Explore My Work : https://furstin-aprilavia-putri.vercel.app // https://furstinaprilavia.blogspot.com/
 
 ## My GitHub Statistics
 
